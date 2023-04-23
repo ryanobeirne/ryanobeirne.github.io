@@ -14,7 +14,7 @@ _Bachelor of Fine Arts in Media Arts_: 2006
 
 ## Experience
 
-* **R&D Engineer**, _Spoonflower/Shutterfly_ | Durham, NC | August 2015 - Present
+* **R&D Engineer**, _Spoonflower/Shutterfly_ \| Durham, NC \| August 2015 - Present
   * Research wide-format inkjet printing technologies including pigment, dye
     sublimation, latex printers/presses, and digital cutters (CNC) for custom
     print-on-demand products including textiles, home-decor, and wallpaper.
@@ -29,7 +29,7 @@ _Bachelor of Fine Arts in Media Arts_: 2006
     automate image processing in diverse tech stacks including Rust, Typescript,
     Ruby, AWS/S3/SQS, Docker, Bash, and more.
 
-* **Print Manager**, _Godfrey Group_ | Durham, NC | March 2010 - August 2015
+* **Print Manager**, _Godfrey Group_ \| Durham, NC \| March 2010 - August 2015
   * Production Management: Coordinate the print production of trade show and
     display graphics
   * Color Management: Develop calibration and ICC profiling strategies using
@@ -43,8 +43,8 @@ _Bachelor of Fine Arts in Media Arts_: 2006
   * Technician: Check incoming artwork from clients and agencies for production
     readiness and make adjustments to maximize graphics production quality.
 
-* **Trade Show Display Designer**, _Zig Zibit Exhibit Design_ |
-  Raleigh, NC | September 2006 - November 2007
+* **Trade Show Display Designer**, _Zig Zibit Exhibit Design_ \|
+  Raleigh, NC \| September 2006 - November 2007
   * Design Engineer: Create custom trade show exhibits using CAD software from
     ideational models to detailed construction drawings and set-up plans.
   * Project Manager: Organize client designs and delegate responsibility to
