@@ -14,7 +14,18 @@ _Bachelor of Fine Arts in Media Arts_: 2006
 
 ## Experience
 
-* **R&D Engineer**, _Spoonflower/Shutterfly_ \| Durham, NC \| August 2015 - Present
+* **Digital Print Manager**, _Vescom America_, \| Henderson, NC \| September 2023 - Present
+  * Manage digital wallcovering manufacturing for all of North America.
+  * Manage customer relationships for developing and producing complex digital
+    wallcovering projects.
+  * Develop color management strategies and workflows for color-critical
+    wallcovering applications.
+  * Lead and train production personnel on digital printer use and maintenance,
+    software tools, and color management practices.
+  * Develop web-based software tools to catalogue, manage, and prepare a large
+    collection of digital surface designs for print production.
+
+* **R&D Engineer**, _Spoonflower/Shutterfly_ \| Durham, NC \| August 2015 - September 2023
   * Research wide-format inkjet printing technologies including pigment, dye
     sublimation, latex printers/presses, and digital cutters (CNC) for custom
     print-on-demand products including textiles, home-decor, and wallpaper.
@@ -43,8 +54,7 @@ _Bachelor of Fine Arts in Media Arts_: 2006
   * Technician: Check incoming artwork from clients and agencies for production
     readiness and make adjustments to maximize graphics production quality.
 
-* **Trade Show Display Designer**, _Zig Zibit Exhibit Design_ \|
-  Raleigh, NC \| September 2006 - November 2007
+* **Trade Show Display Designer**, _Zig Zibit Exhibit Design_ \| Raleigh, NC \| September 2006 - November 2007
   * Design Engineer: Create custom trade show exhibits using CAD software from
     ideational models to detailed construction drawings and set-up plans.
   * Project Manager: Organize client designs and delegate responsibility to
